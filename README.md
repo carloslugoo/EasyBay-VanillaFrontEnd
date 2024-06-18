@@ -1,5 +1,6 @@
 # Easy Bay - Vanilla Front End
-Este proyecto consiste en la implementación de la sección de inicio (Home) de una página web utilizando tecnologías de front-end puras: HTML, CSS y JavaScript. Fue desarrollado como parte del examen de un bootcamp.
+Este proyecto consiste en la implementación de la sección de inicio (Home) de una página web utilizando tecnologías de front-end puras: HTML, CSS y JavaScript. Fue desarrollado como parte del examen de un bootcamp Full Stack MERN. <br>
+Bootcamp: https://www.codingdojo.la
 ## Tecnologías
 
 - HTML5: Utilizado para la estructura y contenido de la página.
